@@ -104,7 +104,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
                         <ul class="dropdown-menu dropdown-menu-lg dropdown-menu-end">
                             <li class="user-footer">
                                 <a href="#" class="btn btn-default btn-flat">Profile</a>
-                                <a href="logout.php" class="btn btn-default btn-flat float-end">Sign out</a>
+                                <a href="./Logout.php" class="btn btn-default btn-flat float-end">Sign out</a>
                             </li>
                         </ul>
                     </li>

@@ -99,7 +99,7 @@ require_once 'koneksi.php';
                         <ul class="dropdown-menu dropdown-menu-lg dropdown-menu-end">
                             <li class="user-footer">
                                 <a href="profile.php" class="btn btn-default btn-flat">Profile</a>
-                                <a href="logout.php" class="btn btn-default btn-flat float-end" 
+                                <a href="./Logout.php" class="btn btn-default btn-flat float-end" 
                                    onclick="return confirm('Apakah Anda yakin ingin logout?')">Sign out</a>
                             </li>
                         </ul>
