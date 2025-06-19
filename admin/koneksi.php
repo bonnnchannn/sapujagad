@@ -1,9 +1,9 @@
 <?php
 // Konfigurasi Database
-$host     = 'sql112.infinityfree.com';
-$username = 'if0_39239825';
-$password = 'kHKEjnr5IqY ';
-$database = 'if0_39239825_sapu';  
+$host     = 'db.be-mons1.bengt.wasmernet.com';
+$username = '45c49a7c78418000fa25e9e4ca09';
+$password = '068545c4-9a7c-79c2-8000-76ee0f7f9f8b';
+$database = 'SapujagaD';  
 
 // Membuat koneksi
 $koneksi = new mysqli($host, $username, $password, $database);
