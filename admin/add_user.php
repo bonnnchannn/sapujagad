@@ -220,7 +220,7 @@ mysqli_close($koneksi);
 
         <aside class="app-sidebar bg-body-secondary shadow" data-bs-theme="dark">
             <div class="sidebar-brand">
-                <a href="../home.php" class="brand-link">
+                <a href="/home.php" class="brand-link">
                     <img src="../user/assets/favicon.png" alt="" class="brand-image opacity-75 shadow" />
                     <span class="brand-text fw-light">Sapu jagaD</span>
                 </a>
