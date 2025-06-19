@@ -126,7 +126,7 @@ mysqli_close($koneksi);
         <div class="sidebar-brand">
           <a href="../home.php" class="brand-link">
             <img
-              src="../assets_login/img/favicon.png"
+              src="../user/assets/favicon.png"
               alt=""
               class="brand-image opacity-75 shadow"
             />

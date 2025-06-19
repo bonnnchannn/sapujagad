@@ -63,7 +63,7 @@
   <!--begin::Sidebar Brand-->
   <div class="sidebar-brand">
     <a href="../home.php" class="brand-link">
-      <img src="../assets_login/img/favicon.png" alt="" class="brand-image opacity-75 shadow" />
+      <img src="../user/assets/favicon.png" alt="" class="brand-image opacity-75 shadow" />
       <span class="brand-text fw-light">Sapu jagaD</span>
     </a>
   </div>
