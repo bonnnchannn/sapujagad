@@ -1,5 +1,6 @@
 <?php
 session_start();
+ob_start(); // <-- tambahkan ini di awal
 require_once 'koneksi.php';
 
 $error = '';
@@ -48,11 +49,11 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
 
                 // Redirect berdasarkan user_level dengan absolute path
                 $redirect_url = "index.php";
-                
-                // Pastikan tidak ada output sebelum header
-                ob_clean();
+
+                // Tidak perlu ob_clean() jika tidak pakai buffer bersarang
                 header("Location: " . $redirect_url);
                 exit();
+
             } else {
                 $error = "Password salah!";
             }
