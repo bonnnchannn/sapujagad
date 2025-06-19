@@ -111,7 +111,7 @@ require_once 'koneksi.php';
         <!-- Sidebar -->
         <aside class="app-sidebar bg-body-secondary shadow" data-bs-theme="dark">
             <div class="sidebar-brand">
-                <a href="../user/home.php" class="brand-link">
+                <a href="../home.php" class="brand-link">
                     <img src="../assets_login/img/favicon.png" alt="" class="brand-image opacity-75 shadow" />
                     <span class="brand-text fw-light">Sapu jagaD</span>
                 </a>

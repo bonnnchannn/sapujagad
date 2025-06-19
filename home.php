@@ -43,7 +43,7 @@
 <body>
     <nav class="navbar navbar-expand-lg shadow-sm bg-white py-3 fixed-top">
       <div class="container">
-        <a class="navbar-brand fw-bold fs-4 text-primary" href="home.php">Sapu jagaD</a>
+        <a class="navbar-brand fw-bold fs-4 text-primary" href="./home.php">Sapu jagaD</a>
         <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNavDropdown" aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">
           <span class="navbar-toggler-icon"></span>
         </button>

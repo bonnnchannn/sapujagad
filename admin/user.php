@@ -124,7 +124,7 @@ mysqli_close($koneksi);
       </nav>
       <aside class="app-sidebar bg-body-secondary shadow" data-bs-theme="dark">
         <div class="sidebar-brand">
-          <a href="../user/index.html" class="brand-link">
+          <a href="../home.php" class="brand-link">
             <img
               src="../assets_login/img/favicon.png"
               alt=""
