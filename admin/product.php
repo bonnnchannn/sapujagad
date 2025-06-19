@@ -133,18 +133,6 @@
                 <p>Add Product</p>
               </a>
             </li>
-            <li class="nav-item">
-              <a href="product_categories.php" class="nav-link">
-                <i class="nav-icon bi bi-circle"></i>
-                <p>Categories</p>
-              </a>
-            </li>
-            <li class="nav-item">
-              <a href="product_stock.php" class="nav-link">
-                <i class="nav-icon bi bi-circle"></i>
-                <p>Stock Management</p>
-              </a>
-            </li>
           </ul>
         </li>
       </ul>

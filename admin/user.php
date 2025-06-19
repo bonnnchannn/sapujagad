@@ -164,18 +164,6 @@ mysqli_close($koneksi);
                       <p>User List</p>
                     </a>
                   </li>
-                  <li class="nav-item">
-                    <a href="user_roles.php" class="nav-link">
-                      <i class="nav-icon bi bi-circle"></i>
-                      <p>User Roles</p>
-                    </a>
-                  </li>
-                  <li class="nav-item">
-                    <a href="../pages/add_user.php" class="nav-link">
-                      <i class="nav-icon bi bi-circle"></i>
-                      <p>Add User</p>
-                    </a>
-                  </li>
                 </ul>
               </li>
                 </ul>
