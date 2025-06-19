@@ -41,7 +41,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
                 // Login berhasil - simpan data ke session
                 $_SESSION['user_id'] = $user['username'];
                 $_SESSION['username'] = $user['username'];
-                $_SESSION['full_name'] = $user['full_name'];
+                $_SESSION['nama'] = $user['nama'];
                 $_SESSION['nama'] = $user['nama'];
                 $_SESSION['user_level'] = strtoupper($user['user_level']);
                 $_SESSION['email'] = $user['email'];
