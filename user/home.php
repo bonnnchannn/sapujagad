@@ -14,7 +14,7 @@
     <!-- navbar -->
     <nav class="navbar navbar-expand-lg shadow-sm bg-white py-3 fixed-top">
       <div class="container">
-        <a class="navbar-brand fw-bold fs-4 text-primary" href="index.html">Sapu jagaD</a>
+        <a class="navbar-brand fw-bold fs-4 text-primary" href="home.php">Sapu jagaD</a>
         <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNavDropdown" aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">
           <span class="navbar-toggler-icon"></span>
         </button>
@@ -22,19 +22,19 @@
         <div class="collapse navbar-collapse" id="navbarNavDropdown">
           <ul class="navbar-nav ms-auto align-items-center gap-3">
             <li class="nav-item">
-              <a class="nav-link fw-medium" href="index.html">Home</a>
+              <a class="nav-link fw-medium" href="home.php">Home</a>
             </li>
             <li class="nav-item">
-              <a class="nav-link fw-medium" href="./user/produk.html">Product</a>
+              <a class="nav-link fw-medium" href="./produk.php">Product</a>
             </li>
             <li class="nav-item">
-              <a class="nav-link fw-medium" href="./user/kontak.php">Contact</a>
+              <a class="nav-link fw-medium" href="./kontak.php">Contact</a>
             </li>
             <li class="nav-item">
-              <a class="nav-link fw-medium" href="./user/profil.html">About</a>
+              <a class="nav-link fw-medium" href="./profil.php">About</a>
             </li>
             <li class="nav-item">
-              <a class="nav-link position-relative" href="./user/keranjang.html">
+              <a class="nav-link position-relative" href="./keranjang.php">
                 <span class="material-symbols-outlined fs-4">shopping_cart</span>
                 <span id="cartCount" class="position-absolute top-0 start-100 translate-middle badge rounded-pill bg-danger">
                   0
